@@ -1,1 +1,1 @@
-Read me file for Bianry_trees
+Readme file for Binary_trees
